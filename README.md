@@ -9,6 +9,9 @@ How to use:
 
 Files:
 
+Filename: Git_Proj1_OLS
+Description: Includes Implementation and fitting of polynomials to Franke function with OLS method
+
 Filename: Git_Proj1_Ridge
 Description: Includes Implementation and fitting of polynomials to Franke function with Ridge method
 
@@ -16,6 +19,8 @@ Filename: Git_Proj1_Lasso
 Description: Includes Implementation and fitting of polynomials to Franke function with Lasso method
 
 
+Filename: Git_Proj1_OLS_terrain
+Description: Includes Implementation and fitting of polynomials to terrain data with OLS method
 
 Filename: Git_Proj1_Ridge_terrain
 Description: Includes Implementation and fitting of polynomials to terrain data with Ridge method
