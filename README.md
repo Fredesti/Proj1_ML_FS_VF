@@ -19,3 +19,6 @@ Description: Includes Implementation and fitting of polynomials to Franke functi
 
 Filename: Git_Proj1_Ridge_terrain
 Description: Includes Implementation and fitting of polynomials to terrain data with Ridge method
+
+Filename: Git_Proj1_Lasso_terrain
+Description: Includes Implementation and fitting of polynomials to terrain data with Lasso method
