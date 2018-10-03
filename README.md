@@ -11,7 +11,7 @@ How to use:
 
 Files:
 
-Filename: Git_Proj1_report
+Filename: Git_Proj1_report 
 Description: Final report in pdf format
 
 Filename: Git_Proj1_OLS
